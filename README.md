@@ -1,2 +1,2 @@
 # info2180-lab1
-This is lab 1 for <Brian>
+This is lab 1 for Brian
